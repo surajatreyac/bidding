@@ -1,0 +1,4 @@
+id;title;budget;target_country_code;target_mobile_app;target_connection_type
+1;CocaCola Life;50000;DE;com.rovio.angry_birds;WiFi
+2;CocaCola Life;50000;DE;com.spotify;WiFi
+3;CocaCola Life;50000;DE;com.facebook;WiFi
